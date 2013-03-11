@@ -1,3 +1,7 @@
+## 2.3.1.2
+
+Fullscreen modals
+
 ## 2.3.1 (February 28, 2013)
 
 Patch release for @fat's n00bery

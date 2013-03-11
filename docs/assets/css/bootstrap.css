@@ -5222,6 +5222,32 @@ input[type="submit"].btn.btn-mini {
   top: 10%;
 }
 
+.modal.fullscreen {
+  top: 20px !important;
+  right: 20px;
+  bottom: 20px;
+  left: 20px;
+  width: auto;
+  margin: 0;
+}
+
+.modal.fullscreen .modal-footer {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.modal.fullscreen .modal-body {
+  position: absolute;
+  top: 50px;
+  bottom: 60px;
+  width: 100%;
+  max-height: none;
+  box-sizing: border-box;
+}
+
 .modal-header {
   padding: 9px 15px;
   border-bottom: 1px solid #eee;
